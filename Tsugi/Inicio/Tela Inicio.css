@@ -1,0 +1,173 @@
+.tela-de-bem-vindo * {
+  box-sizing: border-box;
+}
+.tela-de-bem-vindo {
+  background: #01073e;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.entrar-2-5 {
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 3517px;
+  height: 2035px;
+  position:fixed;
+  left: 0px;
+  top: 10px;
+
+}
+.seja-bem-vindo-ao-nosso-site {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 60px;
+  font-weight: 800;
+  position: absolute;
+  left: 52px;
+  top: 161px;
+  width: 1090px;
+  height: 73px;
+  margin-top: -10px;
+  
+}
+.explore-nosso-vasto-universo-de-animes-filmes-mang-s-e-manhwa-e-mergulhe-em-hist-rias-cheias-de-a-o-aventura-e-magia {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  position: absolute;
+  left: 52px;
+  top: 256px;
+  width: 845px;
+  height: 77px;
+  margin-top: 50px;
+}
+.rectangle-4 {
+  background: #ff7a00;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #ffd600;
+  border-width: 1px;
+  width: 442px;
+  height: 71px;
+  position: absolute;
+  left: 423px;
+  top: 399px;
+  margin-top: 50px;
+}
+.rectangle-5 {
+  background: #ff7a00;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #ffd600;
+  border-width: 1px;
+  width: 353px;
+  height: 71px;
+  position: absolute;
+  left: 3px;
+  top: 399px;
+  margin-top: 50px;
+}
+.conhe-a-nossa-comunidade {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 27px;
+  font-weight: 800;
+  position: absolute;
+  left: 444px;
+  top: 418px;
+  width: 400px;
+  height: 33px;
+  margin-top: 30px;
+}
+.conhe-a-agora {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+  position: absolute;
+  left: 36px;
+  top: 415px;
+  height: 33px;
+  margin-top: 50px;
+}
+.line-10 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1186.02px;
+  height: 0px;
+  position: absolute;
+  left: 218px;
+  top: 971px;
+  transform-origin: 0 0;
+  transform: rotate(0.29deg) scale(1, 1);
+}
+.pol-tica-de-privacidade {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 497px;
+  top: 946px;
+}
+.ferramenta-de-consentimento-de-cookies {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 799px;
+  top: 945px;
+}
+.termos-de-uso {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  position: absolute;
+  left: 300px;
+  top: 947px;
+  width: 687px;
+}
+.image-76 {
+ 
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 440.77px;
+  height: 484.84px;
+  position: absolute;
+  top: 470px;
+  right: -100px;
+}
+.Ichigo{
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 317px;
+  height: 391px;
+  position: absolute;
+  right: 200px;
+  top: 552px;
+
+}
+.logo-2 {
+ 
+  width: 332px;
+  height: 234px;
+  position: absolute;
+  left: -8px;
+  top: -3px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+}

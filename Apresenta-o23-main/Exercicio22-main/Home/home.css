@@ -1,0 +1,208 @@
+:root {
+    --cor_fundo: black;
+    --cor_letra: rgb(0, 0, 0);
+    --tamanho_letra: 17px;
+    --cor_transition1: #848586;
+    --fonte: Arial;
+    --cor_objeto: black;
+    --background-footer: #0f4a90;
+    
+   }
+   
+   body{
+       padding: 0;
+       margin: 0;
+       font-family: var(--fonte);
+   }
+   
+   .menu{
+       position: fixed;
+       display: inline-flex;
+       justify-content: space-between;
+       width: 100%;
+       background-color: #3a3939;
+       height: 60px;
+   }
+   
+   /*Lado direito do Menu*/
+   .lado_direito a{ 
+       text-decoration: none;
+       color: white;
+       font-size: var(--tamanho_letra);
+       font-family: var(--fonte);
+   }
+   
+   /*Animação dos links do Menu*/
+   a:hover {
+       color: var(--cor_transition1);
+       background-color: #221f1f57;
+       padding: 5px;
+       border-radius: 5px;
+   }
+   
+
+   /*Link principal da página*/
+   #navegador{
+    font-weight: bold;
+    color: var(--cor_transition1);
+   }
+   
+   /*Lado esquerdo do menu com a Logo*/
+   .lado_esquerdo img{
+       display: flex;
+       margin-left: 5px;
+       padding: 0;
+       height: 70px;
+       
+   }
+   
+   .lado_direito{
+    display: flex;
+    align-items: center;
+   }
+
+   /*Navegadores do Menu*/
+   .lado_direito nav{
+       display: inline;
+       margin: 9px;
+       flex-direction: row;
+       justify-content: space-between;
+   }
+   
+   .lado_direito ul{
+    padding-right: 45px;
+   }
+   /*------------------------------------*/
+   main{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 90px;
+   }
+
+   #imagem{
+    width: 100%;
+    height: 350px;
+    margin-top: 40px;
+    background-image: url(./img/BILI.png);
+    background-position: center;
+    background-attachment: fixed; /*A imagem não rolará com o resto da página*/
+    background-repeat:no-repeat;
+    display: flex;
+    text-align: left;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+    padding-left: 10px;
+   }
+
+   #imagem p{
+    text-align: left;
+    font-size: 15px;
+    margin-top: -50px;
+    margin-left: 10px;
+   }
+
+   #imagem h3{
+    text-align: left;
+    font-size: 50px;
+    font-weight: lighter;
+    margin-left: 0;
+   }
+
+   .imagem_ladodireito{
+    width: 10%;
+    height: auto;
+    align-content: end;
+    padding-bottom: 20px;
+    
+   }
+  
+   #play{
+    background-color: #0f4a90;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 50px;
+   }
+
+   .principal img{
+    height: 280px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    float: left;
+    margin-left: 0px;
+   }
+
+   .principal{
+    text-align: center;
+    width: 100%;
+   }
+
+   .principal p{
+    margin-bottom: 90px;
+    font-size: 20px;
+   }
+
+   .container_servicos{
+    display: flex;
+    justify-content: center;
+   }
+
+   .Musicas{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    width: 100%; /* deixar o ol junto com o texto*/
+    
+   }
+   li{
+    text-align: justify; 
+    margin-bottom: 5px;       
+   }
+
+
+   /*------------------------------------*/
+   footer{
+    display: flex;
+    background-image: url(./img/rodape2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 100%;
+    height: 300px;
+    bottom: 0;
+    margin: 0;
+   }
+
+   footer img{
+    padding: 0;
+    margin: 0;
+    height: 90px;
+   }
+
+   .rodape{  
+    display: flex;
+    width: 100%;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   }
+
+   .icone_servicos{
+    font-size: 30px;
+    color: white;
+    background-color: #3a3939b7;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+   }
+
+   .icone_servicos:hover{
+    background-color: #252525;
+   }
+
+

@@ -1,0 +1,631 @@
+.tela-jujutsu,
+.tela-jujutsu * {
+  box-sizing: border-box;
+}
+.tela-jujutsu {
+  background: #000000;
+  height: 1737px;
+  position: relative;
+  overflow: hidden;
+}
+.jujutsu-kaisen-crunchyroll-techtudo-1 {
+  width: 1192px;
+  height: 802px;
+  position: absolute;
+  left: 324px;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-46 {
+  background: #000000;
+  width: 1440px;
+  height: 222px;
+  position: absolute;
+  left: 0px;
+  top: 802px;
+  filter: blur(25px);
+}
+.rectangle-6 {
+  width: 1440px;
+  height: 985px;
+  position: absolute;
+  left: 24px;
+  top: -21px;
+}
+.rectangle-8 {
+  background: linear-gradient(
+    89.35deg,
+    rgba(0, 0, 0, 0.75) 0%,
+    rgba(0, 0, 0, 0.75) 0.0050008296966552734%,
+    rgba(0, 0, 0, 0.75) 0.010001659393310547%,
+    rgba(51, 51, 51, 0.38) 50%,
+    rgba(102, 102, 102, 0) 91.50000214576721%
+  );
+  width: 1048.92px;
+  height: 994.15px;
+  position: absolute;
+  left: -22.44px;
+  top: -45px;
+  transform-origin: 0 0;
+  transform: rotate(2.223deg) scale(1, 1);
+  mix-blend-mode: plus-darker;
+}
+.rectangle-14 {
+  border-style: solid;
+  border-color: #ff6b00;
+  border-width: 1px;
+  width: 84px;
+  height: 25px;
+  position: absolute;
+  left: 64px;
+  top: 276px;
+}
+.rectangle-15 {
+  border-style: solid;
+  border-color: #ff6b00;
+  border-width: 1px;
+  width: 84px;
+  height: 25px;
+  position: absolute;
+  left: 169px;
+  top: 276px;
+}
+.rectangle-16 {
+  border-style: solid;
+  border-color: #ff6b00;
+  border-width: 1px;
+  width: 135px;
+  height: 25px;
+  position: absolute;
+  left: 275px;
+  top: 276px;
+}
+.a-o {
+  color: #9f4300;
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 12px;
+  font-weight: 800;
+  position: absolute;
+  left: 85px;
+  top: 281px;
+  width: 57px;
+  height: 11px;
+}
+.drama {
+  color: #f6b816;
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 12px;
+  font-weight: 800;
+  position: absolute;
+  left: 185px;
+  top: 281px;
+  width: 94px;
+  height: 11px;
+}
+.sobrenatural {
+  color: #ff0000;
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 12px;
+  font-weight: 800;
+  position: absolute;
+  left: 287px;
+  top: 280px;
+  width: 116px;
+  height: 29px;
+}
+.rectangle-11 {
+  width: 1440px;
+  height: 196px;
+  position: absolute;
+  left: 0px;
+  top: 871px;
+  overflow: visible;
+}
+.rectangle-18 {
+  width: 1440px;
+  height: 196px;
+  position: absolute;
+  left: 45px;
+  top: 962px;
+  overflow: visible;
+}
+.rectangle-19 {
+  width: 1440px;
+  height: 196px;
+  position: absolute;
+  left: -7px;
+  top: 1086px;
+  overflow: visible;
+}
+.jujutsu-kaisen {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 70px;
+  font-weight: 800;
+  position: absolute;
+  left: 24px;
+  top: 142px;
+  width: 613px;
+  height: 142px;
+}
+.segunda-temporada-2022 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 32px;
+  top: 118px;
+  width: 598px;
+  height: 72px;
+}
+.jujutsu-kaisen-uma-jornada-pica-que-come-a-com-yuji-itadori-um-estudante-colegial-comum-que-tem-sua-vida-transformada-ap-s-um-encontro-fat-dico-com-o-sobrenatural-quando-yuji-acidentalmente-liberta-uma-terr-vel-maldi-o-contida-em-um-artefato-amaldi-oado-ele-se-v-imerso-em-um-mundo-de-trevas-e-perigo {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Light", sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  position: absolute;
+  left: 48px;
+  top: 334px;
+  width: 493px;
+  height: 276px;
+}
+.star-white-1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 228px;
+  top: 224px;
+  object-fit: cover;
+}
+._216411-star-icon-white {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 48px;
+  top: 222px;
+  object-fit: cover;
+}
+._216411-star-icon-white2 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 93px;
+  top: 222px;
+  object-fit: cover;
+}
+._216411-star-icon-white3 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 138px;
+  top: 222px;
+  object-fit: cover;
+}
+._216411-star-icon-white4 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 183px;
+  top: 222px;
+  object-fit: cover;
+}
+._216411-star-icon-white5 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 228px;
+  top: 224px;
+  object-fit: cover;
+}
+.rectangle-17 {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 107, 0, 1) 0%,
+    rgba(235, 99, 0, 1) 0.009999999747378752%,
+    rgba(238, 100, 0, 1) 50.49999952316284%,
+    rgba(240, 101, 0, 1) 100%
+  );
+  border-radius: 0px 20px 0px 20px;
+  width: 175px;
+  height: 39px;
+  position: absolute;
+  left: 68px;
+  top: 638px;
+}
+.play-button-arrowhead-1 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 86px;
+  top: 645px;
+  object-fit: cover;
+}
+.assista-agora {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  left: 117px;
+  top: 649px;
+  width: 124px;
+  height: 34px;
+}
+.adicionar-aos-favoritos {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  left: 348px;
+  top: 652px;
+  width: 205px;
+  height: 34px;
+}
+.save-for-later-button {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 315px;
+  top: 644px;
+}
+.bookmark {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.logo-2 {
+  width: 230px;
+  height: 148px;
+  position: absolute;
+  left: -7px;
+  top: -20px;
+  object-fit: cover;
+}
+.assista-tamb-m {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 15px;
+  top: 797px;
+  width: 315px;
+  height: 85px;
+}
+.termos-de-uso {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  position: absolute;
+  left: 243px;
+  top: 1668px;
+  width: 687px;
+}
+.ferramenta-de-consentimento-de-cookies {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 742px;
+  top: 1666px;
+}
+.pol-tica-de-privacidade {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 440px;
+  top: 1667px;
+}
+.home {
+  width: 124px;
+  height: 57px;
+  position: absolute;
+  left: 482px;
+  top: 19px;
+}
+.home2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.line-1 {
+  width: 1px;
+  height: 0%;
+  position: absolute;
+  left: calc(50% - 1px);
+  bottom: 50.88%;
+  top: 49.12%;
+  overflow: visible;
+}
+.contato {
+  width: 124px;
+  height: 57px;
+  position: absolute;
+  left: 660px;
+  top: 19px;
+}
+.contato2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.line-3 {
+  width: 1px;
+  height: 0%;
+  position: absolute;
+  left: calc(50% - 1px);
+  bottom: 42.11%;
+  top: 57.89%;
+  overflow: visible;
+}
+.servi-os {
+  width: 124px;
+  height: 57px;
+  position: absolute;
+  left: 838px;
+  top: 9px;
+}
+.servi-os2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.line-2 {
+  width: 1px;
+  height: 0%;
+  position: absolute;
+  left: calc(50% - 61px);
+  bottom: 98.25%;
+  top: 1.75%;
+  overflow: visible;
+}
+.sobre {
+  width: 124px;
+  height: 57px;
+  position: absolute;
+  left: 1045px;
+  top: 18px;
+}
+.sobre2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.line-4 {
+  width: 1px;
+  height: 0%;
+  position: absolute;
+  left: calc(50% - 0px);
+  bottom: 42.11%;
+  top: 57.89%;
+  overflow: visible;
+}
+.login {
+  width: 127px;
+  height: 43px;
+  position: absolute;
+  left: 1234px;
+  top: 9px;
+}
+.rectangle-1 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 3px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.login2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.11%;
+  left: 22.05%;
+  width: 59.84%;
+  bottom: 46.51%;
+  top: 16.28%;
+  height: 37.21%;
+}
+.rectangle-24 {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 63.5px;
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px 0px 0px 0px;
+  width: 578px;
+  height: 127px;
+  position: absolute;
+  left: 48px;
+  top: 1495px;
+}
+.logo-4 {
+  width: 326px;
+  height: 210px;
+  position: absolute;
+  left: -7px;
+  top: 1328px;
+  object-fit: cover;
+}
+.tsugi-no-eiga-o-melhor-site-para-assistir-filmes-s-ries-animes-e-ler-manhwa-mang-s-e-webtoons-sem-an-ncio-e-gratuito-na-tv-desktop-e-smartphones {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 60px;
+  top: 1519px;
+  width: 615px;
+  height: 103px;
+}
+.frame-16 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1297px;
+  position: absolute;
+  left: 17px;
+  top: 871px;
+}
+.scroll-filmes-main {
+  display: flex;
+  flex-direction: row;
+  gap: 73px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.kimetsu-no-yaiba {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 272.41px;
+  height: 377px;
+  position: relative;
+}
+._6-bfb-425845-a-59-a-8-c-6-effd-0-f-45-e-41-baf-9-1 {
+  flex-shrink: 0;
+  width: 272.41px;
+  height: 377px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-baki {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._7568-f-98560-d-533-d-2-aade-513443-bb-41-c-2-2 {
+  flex-shrink: 0;
+  width: 251.33px;
+  height: 377px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-jujutsu-kaisen {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._4-e-1-c-1-fe-5-ca-6-a-95276-c-28223-cad-42-b-499-1 {
+  flex-shrink: 0;
+  width: 248px;
+  height: 377px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-bleach {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.a-5-f-8-d-55036721-c-496-ee-9-f-8-b-50-e-88-fc-13-1 {
+  flex-shrink: 0;
+  width: 252.3px;
+  height: 377px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-one-piece {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._0523-c-4-ad-6-ee-578-e-86298-a-7-e-4-e-170428-b-1 {
+  flex-shrink: 0;
+  width: 233.3px;
+  height: 377px;
+  position: relative;
+  object-fit: cover;
+}

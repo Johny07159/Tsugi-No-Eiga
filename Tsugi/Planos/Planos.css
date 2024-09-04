@@ -1,0 +1,511 @@
+.tela-cadastro,
+.tela-cadastro * {
+  box-sizing: border-box;
+}
+.tela-cadastro {
+  background: #040b48;
+  height: 3055px;
+  position: relative;
+  overflow: hidden;
+}
+.captura-de-tela-2024-07-29-105913-1 {
+  background-image: url('../Image/Captura\ de\ tela\ 2024-07-29\ 105913\ 1.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 2819px;
+  height: 1065px;
+  position: fixed;
+  left: -141px;
+  top: -9.5px;
+}
+.rectangle-5 {
+  background: #194923;
+  border-radius: 10px;
+  width: 477px;
+  height: 557px;
+  position: absolute;
+  left: 100px;
+  top: 376.5px;
+}
+.rectangle-7 {
+  background: #194923;
+  border-radius: 10px;
+  width: 492px;
+  height: 577px;
+  position: absolute;
+  left: 1117px;
+  top: 357.5px;
+}
+.rectangle-6 {
+  background: #194923;
+  border-radius: 10px;
+  width: 499px;
+  height: 609px;
+  position: absolute;
+  left: 601px;
+  top: 303.5px;
+  overflow: visible;
+}
+.image-removebg-preview-1-2 {
+  width: 318px;
+  height: 155px;
+  position: absolute;
+  left: 693px;
+  top: 164px;
+  object-fit: cover;
+}
+.logo-2 {
+  width: 257px;
+  height: 177px;
+  position: absolute;
+  left: 724px;
+  top: 907px;
+  object-fit: cover;
+}
+._11243330-removebg-preview-1 {
+
+  width: 109.11px;
+  height: 75.79px;
+  position: absolute;
+  left: 871.03px;
+  top: 109px;
+  transform-origin: 0 0;
+  transform: rotate(51.158deg) scale(1, 1);
+
+}
+.rectangle-96 {
+  background: linear-gradient(
+    90deg,
+    rgb(12, 9, 9) 0%,
+    #194923 99.98999834060669%,
+    rgb(17, 107, 36) 100%
+  );
+  border-radius: 10px;
+  width: 552.39px;
+  height: 498.26px;
+  position: absolute;
+  left: 1099.59px;
+  top: 302.99px;
+  transform-origin: 0 0;
+  transform: rotate(89.985deg) scale(1, 1);
+  mix-blend-mode: plus-darker;
+}
+.rectangle-98 {
+  background: linear-gradient(
+    90deg,
+    rgb(0, 0, 0) 0%,
+    #194923 99.98999834060669%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 10px;
+  width: 460.27px;
+  height: 492.07px;
+  position: absolute;
+  left: 1609.07px;
+  top: 355.5px;
+  transform-origin: 0 0;
+  transform: rotate(89.985deg) scale(1, 1);
+  mix-blend-mode: plus-darker;
+}
+._430-lg-removebg-preview-1 {
+  width: 269px;
+  height: 311px;
+  position: absolute;
+  left: 1380px;
+  top: 160px;
+  object-fit: cover;
+}
+.imgbin-ichigo-kurosaki-littlebigplanet-bleach-desktop-ichigo-kurosaki-tfn-a-cv-ws-mv-4-x-yyc-p-zc-2-k-lw-snx-removebg-preview-1-1 {
+  background-image: url('../Image/imgbin-ichigo-kurosaki-littlebigplanet-bleach-desktop-ichigo-kurosaki-tfnACvWsMv4xYycPZc2kLwSnx-removebg-preview\ \(1\)\ 1.png  ');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 432.54px;
+  height: 219.98px;
+  position: absolute;
+  left: 85px;
+  top: 153px;
+  object-fit: cover;
+}
+.rectangle-99 {
+  background: linear-gradient(
+    90deg,
+    rgb(0, 0, 0) 0%,
+    #194923 99.98999834060669%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 10px;
+  width: 426.72px;
+  height: 477.76px;
+  position: absolute;
+  left: 577.43px;
+  top: 372.5px;
+  transform-origin: 0 0;
+  transform: rotate(89.985deg) scale(1, 1);
+  mix-blend-mode: plus-darker;
+}
+.assista-e-leia-a-todo-o-acervo-da-tsugi-no-eiga-sem-propagandas-com-novos-epis-dios-logo-ap-s-o-lan-amento-no-jap-o {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 119px;
+  top: 652.5px;
+  width: 447px;
+  height: 71px;
+}
+.assista-em-ate-1-tela-leia-offilne {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 152px;
+  top: 810px;
+  width: 237px;
+  height: 72px;
+}
+.assista-em-ate-3-telas-simultaneas-leia-offilne {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 647px;
+  top: 836px;
+  width: 350px;
+  height: 61px;
+}
+.assista-em-ate-6-telas-simultaneas-leia-offilne {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1148px;
+  top: 819px;
+  width: 350px;
+  height: 61px;
+}
+.offline-viewing {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 649px;
+  top: 799px;
+  width: 176px;
+  height: 47px;
+}
+.offline-viewing2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1148px;
+  top: 790px;
+  width: 176px;
+  height: 47px;
+}
+._14-de-desconto-no-plano-anual-cobrado-anualmente {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1148px;
+  top: 873px;
+  width: 381px;
+  height: 47px;
+}
+.assista-e-leia-a-todo-o-acervo-da-tsugi-no-eiga-sem-propagandas-com-novos-epis-dios-logo-ap-s-o-lan-amento-no-jap-o2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 634px;
+  top: 655px;
+  width: 447px;
+  height: 71px;
+}
+.mais-popular {
+  color: #ff8a35;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 735px;
+  top: 319px;
+  width: 233px;
+  height: 71px;
+}
+.assista-e-leia-a-todo-o-acervo-da-tsugi-no-eiga-sem-propagandas-com-novos-epis-dios-logo-ap-s-o-lan-amento-no-jap-o3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1135px;
+  top: 660px;
+  width: 447px;
+  height: 71px;
+}
+.plus {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 301px;
+  top: 752.5px;
+  width: 88px;
+  height: 71px;
+}
+.plus2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1332px;
+  top: 752.5px;
+  width: 88px;
+  height: 71px;
+}
+.plus3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 813px;
+  top: 743px;
+  width: 88px;
+  height: 71px;
+}
+.rectangle-97 {
+  background: #0a0909;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #e27b41;
+  border-width: 3px;
+  width: 276px;
+  height: 43.94px;
+  position: absolute;
+  left: 201px;
+  top: 568.5px;
+}
+.compre {
+  color: #ff6b00;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 301px;
+  top: 577.5px;
+  width: 74px;
+}
+.r-15-99-m-s {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 229px;
+  top: 490.5px;
+  width: 219px;
+  height: 64px;
+}
+.line-13 {
+  margin-top: -4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px 0 0 0;
+  width: 168px;
+  height: 0px;
+  position: absolute;
+  left: 117px;
+  top: 778.5px;
+  transform-origin: 0 0;
+  transform: rotate(0.341deg) scale(1, 1);
+}
+.line-15 {
+  margin-top: -4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px 0 0 0;
+  width: 168px;
+  height: 0px;
+  position: absolute;
+  left: 1148px;
+  top: 778.5px;
+  transform-origin: 0 0;
+  transform: rotate(0.341deg) scale(1, 1);
+}
+.line-17 {
+  margin-top: -4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px 0 0 0;
+  width: 168px;
+  height: 0px;
+  position: absolute;
+  left: 629px;
+  top: 769px;
+  transform-origin: 0 0;
+  transform: rotate(0.341deg) scale(1, 1);
+}
+.line-14 {
+  margin-top: -4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px 0 0 0;
+  width: 168px;
+  height: 0px;
+  position: absolute;
+  left: 393px;
+  top: 779.5px;
+  transform-origin: 0 0;
+  transform: rotate(0.341deg) scale(1, 1);
+}
+.line-16 {
+  margin-top: -4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px 0 0 0;
+  width: 168px;
+  height: 0px;
+  position: absolute;
+  left: 1424px;
+  top: 779.5px;
+  transform-origin: 0 0;
+  transform: rotate(0.341deg) scale(1, 1);
+}
+.line-18 {
+  margin-top: -4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px 0 0 0;
+  width: 168px;
+  height: 0px;
+  position: absolute;
+  left: 905px;
+  top: 770px;
+  transform-origin: 0 0;
+  transform: rotate(0.341deg) scale(1, 1);
+}
+.rectangle-62 {
+  background: #0a0909;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #e27b41;
+  border-width: 3px;
+  width: 276px;
+  height: 43.94px;
+  position: absolute;
+  left: 1232px;
+  top: 568.5px;
+}
+.compre2 {
+  color: #e27b41;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1343px;
+  top: 578.5px;
+  width: 74px;
+}
+.r-299-99-ano {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 1232px;
+  top: 508.5px;
+  width: 219px;
+  height: 64px;
+}
+.geek {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AlegreyaSc-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 1254px;
+  top: 433.5px;
+  width: 161px;
+  height: 75px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangle-4 {
+  background: #f79948;
+  border-radius: 10px;
+  width: 276px;
+  height: 43.94px;
+  position: absolute;
+  left: 711px;
+  top: 560px;
+}
+.compre3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 812px;
+  top: 570px;
+  width: 74px;
+}
+.r-16-99-m-s {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 737px;
+  top: 496px;
+  width: 219px;
+  height: 64px;
+}
+.geek2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AlegreyaSc-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 750px;
+  top: 337px;
+  width: 161px;
+  height: 160px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}

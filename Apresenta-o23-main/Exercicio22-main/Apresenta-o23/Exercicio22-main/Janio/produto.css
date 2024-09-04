@@ -1,0 +1,249 @@
+:root { /*Para definir variaveis*/
+    --cor_fundo: black;
+    --cor_letra: rgb(255, 255, 255);
+    --tamanho_letra: 17px;
+    --cor_transition1: #757272;
+    --fonte: "Roboto Condensed", sans-serif;
+    --cor_objeto: black;
+    --cor_transition: #400aad;
+}
+
+body { /*Estilização do corpo do site*/
+    padding: 0;
+    margin: 0;
+    font-family: var(--fonte);
+    overflow-x: hidden;
+}
+
+.menu { /*Estilização do menu, onde contem logo, serviços, contato, produto, sobre e home*/
+    
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #3a3939;
+    height: 60px;
+
+}
+
+/*Lado direito do Menu*/
+   /*Lado direito do Menu*/
+   .lado_direito a{
+    text-decoration: none; /*Usado para tirar a decoração do link*/
+    color: white; 
+    font-size: var(--tamanho_letra);
+    font-family: var(--fonte);
+}
+
+/*Animação dos links do Menu*/
+a:hover {
+    color: var(--cor_transition1);
+    background-color: #221f1f57;
+    padding: 5px;
+    border-radius: 5px; /*Usado para arredondar a borda dos links*/
+}
+
+
+/*Link principal da página*/
+#navegador{
+ font-weight: bold; /*Indica a intencidade da fonte como pesada (negrito)*/
+ color: var(--cor_transition1);
+}
+
+
+/*Lado esquerdo do menu com a Logo*/
+.lado_esquerdo img{
+    display: flex; /*Para deixar o container flexível e incicá-lo como o container pai*/
+    margin-left: 5px;
+    padding: 0;
+    height: 70px;
+    
+}
+
+.lado_direito{
+ display: flex;
+ align-items: center;
+}
+
+/*Navegadores do Menu*/
+.lado_direito nav{
+    display: inline;
+    margin: 9px;
+    flex-direction: row; /*Indica a direção em linha dos elementos*/
+    justify-content: space-between;
+}
+
+.lado_direito ul{
+ padding-right: 45px;
+}
+/*Menu*/
+#nossos_planos {
+    width: 100%;
+    padding: 60px;
+}
+
+#nossos_planos img {
+    margin: 20px;
+    height: 180px;
+    width: auto;
+}
+#icone {
+    font-size: 100px;
+    color: var(--cor_objeto);
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+/*Planos*/
+
+#planos {
+    display: flex;
+    justify-content: center;
+    font-family: var(--fonte);
+}
+
+.container_planos {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.lista{
+    display: block;
+    width: 210px;
+}
+
+.listas { /**/
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    color: #0f4a90;
+    font-weight: bold;
+    margin-bottom: 90px;
+}
+li{
+    margin-top: 10px;
+}
+
+.planos {
+    width: 200px;
+    height: 200px;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: background-color 1s;
+    
+}
+
+.planos:hover {
+    background-color: var(--cor_transition1);
+
+}
+
+.planos p{
+    font-size: 20px;
+    margin: 2px;
+    font-weight: bold;
+    color: #0f4a90;
+}
+
+.experimente {
+    background-color: #0f4a90;
+    border-radius: 20px;
+    width:auto;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+.experimente:hover {
+    background-color: #fff;
+    cursor: pointer;
+
+}
+h3:hover{
+    color:#0f4a90
+}
+.table {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+
+}
+
+
+h3 {
+    color: #fff;
+    font-size: 15px;
+    width: 100%;
+    padding: 5px;
+
+
+}
+
+h2 {
+    color: #0f4a90;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+
+h4 {
+    background-color: #0f4a90;
+    width: 100px;
+    border-radius: 8px;
+    color: #fff;
+    margin-top: 12px;
+}
+p{
+    color: #fff;
+}
+footer{
+    display: flex;
+    background-image: url(./img/Rodape2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 100%;
+    height: 300px;
+    bottom: 0;
+    margin: 0;
+   }
+   footer img{
+    padding: 0;
+    margin: 0;
+    height: 90px;
+   }
+   .rodape{  
+    display: flex;
+    width: 100%;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   }
+   .rodape h3{
+    font-size: 20px;
+   }
+   .rodape h3:hover{
+    color:white;
+   }
+   .icone_servicos{
+    font-size: 30px;
+    color: white;
+    background-color: #3a3939b7;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    cursor: pointer;
+   }
+   .icone_servicos:hover{
+    background-color: #252525;
+   }
+ 

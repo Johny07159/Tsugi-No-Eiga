@@ -1,0 +1,149 @@
+:root {
+    --cor_fundo: black;
+    --cor_letra: rgb(0, 0, 0);
+    --tamanho_letra: 17px;
+    --cor_transition1: #848586;
+    --fonte: "Roboto Condensed", sans-serif;
+    --cor_objeto: black;
+    --background-footer: #0f4a90;
+    
+   }
+   
+   body{
+       padding: 0;
+       margin: 0;
+       font-family: var(--fonte);
+   }
+   
+   .menu{
+       position: fixed;
+       display: inline-flex;
+       justify-content: space-between;
+       width: 100%;
+       background-color: #3a3939;
+       height: 60px;
+   }
+   
+   .lado_direito a{
+       text-decoration: none;
+       color: white;
+       font-size: var(--tamanho_letra);
+       font-family: var(--fonte);
+   }
+   
+   a:hover {
+       color: var(--cor_transition1);
+       background-color: #221f1f57;
+       padding: 5px;
+       border-radius: 5px;
+   }
+   
+   .navegacao{
+       transition: border 2s;
+   }
+
+   #navegador{
+    font-weight: bold;
+    color: var(--cor_transition1);
+   }
+   
+   .lado_esquerdo img{
+       display: flex;
+       margin-left: 5px;
+       padding: 0;
+       height: 70px;
+       
+   }
+   
+   .lado_direito{
+    display: flex;
+    align-items: center;
+   }
+
+   .lado_direito nav{
+       display: inline;
+       margin: 9px;
+       flex-direction: row;
+       justify-content: space-between;
+   }
+   
+   .lado_direito ul{
+    padding-right: 45px;
+   }
+   /*------------------------------------*/
+   main{
+    display: flex;
+    justify-content: center;
+   }
+
+   #imagem{
+    display: flex;
+    width: 100%;
+   }
+
+   .principal img{
+    height: 280px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    float: left;
+    margin-left: 0px;
+   }
+
+   .principal{
+    text-align: center;
+    width: 100%;
+   }
+
+   .principal p{
+    margin-bottom: 90px;
+    font-size: 20px;
+   }
+
+   .container_servicos{
+    display: flex;
+    justify-content: center;
+   }
+
+   .servicos{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    justify-content: center;
+    width: 50%;
+   }
+   /*------------------------------------*/
+   footer{
+    display: flex;
+    background-image: url(../images/Rodape2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 100%;
+    height: 300px;
+    bottom: 0;
+    margin: 0;
+   }
+
+   .rodape{  
+    display: flex;
+    width: 100%;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   }
+
+   .icone_servicos{
+    font-size: 30px;
+    color: white;
+    background-color: #3a3939b7;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+   }
+
+   .icone_servicos:hover{
+    background-color: #252525;
+   }

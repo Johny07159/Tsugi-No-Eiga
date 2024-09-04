@@ -1,0 +1,157 @@
+
+  
+
+body {
+  background-color: #657392;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 100px;
+  padding: 100px;
+  background-image : url('../Image/ENTRAR\ -\ 2\ 5.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+
+
+}
+#Log{
+  color:#3B957B
+}
+a { 
+color:#ffffff
+}
+
+form{
+  max-width: 400px;
+  margin: 50px auto;
+  background-color: #08080893;
+  right: 645px;
+  padding: 50px;
+  max-height: 20rem;
+
+  border-radius: 10px;
+  
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-align:center;
+  margin-top: 150px;
+
+}
+input[type="text"], input[type="password"], input[type="email"], input[type="CPF"], input[type="Tell"], input[type="Endereço"], input[type="date"]  {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+ 
+input[type="checkbox"] {
+  margin-top: 10px;
+  text-align: center;
+  position: relative;
+
+}
+
+
+button {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  background-color: #eb7405;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+
+
+.logo-1 {
+  width: 332px;
+  height: 234px;
+  position: absolute;
+  background-position: center;
+  left: 869px;
+  top: -57px;
+  object-fit: cover;
+  cursor: pointer;
+  top: 57px;
+  object-fit: cover;
+}
+
+.down-arrow-1 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1166px;
+  top: 983px;
+  object-fit: cover;
+}
+/*Daeapool*/
+.image-removebg-preview-1-1 {
+  width: 318px;
+  height: 155px;
+  position: absolute;
+  left: 877px;
+  top: 210px;
+ 
+}
+/*Goku*/
+.image-2 {
+  width: 223px;
+  height: 282px;
+  position: absolute;
+  right: 650px;
+  top: 633px;
+  object-fit: cover;
+}
+.pol-tica-de-privacidade {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 860px;
+  top: 931px;
+}
+.ferramenta-de-consentimento-de-cookies {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 1200px;
+  top: 930px;
+}
+.termos-de-uso {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  position: absolute;
+  left:563px;
+  top: 932px;
+  width: 687px;
+}
+.line-10 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1186.02px;
+  height: 0px;
+  position: absolute;
+  left: 518px;
+  top: 971px;
+  transform-origin: 0 0;
+  transform: rotate(0.29deg) scale(1, 1);
+}
+
