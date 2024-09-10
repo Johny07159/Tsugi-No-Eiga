@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    display: block;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor:pointer;
+    border-radius: 8px;
+}
+.caixa{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(97, 46, 46);
+}
+.caixa-ativa{
+    border: 2px solid rgb(129, 160, 218);
+    background-color: rgb(19, 27, 46);
+}
